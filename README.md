@@ -7,7 +7,9 @@
 ║                                                          ║ ┃   ┣━━                        
 ║                                                          ║ ┃   ┗━━                            
 ║                                                          ║ ┗━━ 📚 Particle Physics Articles       
-║ Feel free to reach out!                                  ║     ┣━━ Electric Dipole Moments & New Forces
-╚══════════════════════════════════════════════════════════╝     ┣━━   ![plots]([https://github.com/alexisdpc/Heston_model/assets/124795834/8c027d66-d434-4e33-9dbe-380885cea611](https://link.springer.com/article/10.1007/JHEP03(2021)185))
+║ Feel free to reach out!                                  ║     ┣━━ <a href=https://link.springer.com/article/10.1007/JHEP03(2021)185>Electric Dipole Moments & New Forces</a>
+╚══════════════════════════════════════════════════════════╝     ┣━━ <a href=https://link.springer.com/article/10.1007/JHEP03(2021)185>Electric Dipole Moments & New Forces</a>
                                                                  ┗━━  
+
+  
 </pre>
