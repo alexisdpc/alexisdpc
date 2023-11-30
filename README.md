@@ -7,7 +7,7 @@
 ║                                                          ║ ┃   ┣━━                         
 ║                                                          ║ ┃   ┗━━                             
 ║                                                          ║ ┗━━ 📚 Particle Physics Articles                
-║ Feel free to reach out!                                  ║     ┣━━ Electric dipole moments, new forces and dark matter             
+║ Feel free to reach out!                                  ║     ┣━━ Electric Dipole Moments & New Forces             
 ╚══════════════════════════════════════════════════════════╝     ┣━━   
                                                                  ┣━━ 
                                                                  ┗━━  
