@@ -6,7 +6,7 @@
 ║ simulations, deep learning and NLP.                      ║ ┃   ┣━━ Deep Hedging                                 
 ║                                                          ║ ┃   ┗━━ Extract Title & Authors     
 ║                                                          ║ ┗━━ 📚 Particle Physics Articles       
-║ Feel free to reach out!                                  ║     ┣━━ <a href=https://link.springer.com/article/10.1007/JHEP03(2021)185>Electric Dipole Moments & New Forces</a>
+║ Feel free to reach out!                                  ║     ┣━━ <a href=https://link.springer.com/article/10.1007/JHEP03(2021)185 target=”_blank”>Electric Dipole Moments & New Forces</a>
 ╚══════════════════════════════════════════════════════════╝     ┣━━ <a href=https://link.springer.com/article/10.1007/JHEP11(2019)093>The QCD Axion & Unification</a>
                                                                  ┗━━  
 
