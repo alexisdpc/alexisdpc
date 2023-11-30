@@ -1,3 +1,4 @@
+<pre>
 ╔════════════════ Welcome to my Github 👋  ════════════════╗ 😄               
 ║ I am aresearcher at La Sapienza University with a        ║ ┣━━ 🌎 Repositories                         
 ║ PhD in particle physics from Durham University. My       ║ ┃   ┣━━ Heston Model                    
@@ -9,4 +10,5 @@
 ║ Feel free to reach out!                                  ║     ┣━━ Electric dipole moments, new forces and dark matter             
 ╚══════════════════════════════════════════════════════════╝     ┣━━   
                                                                  ┣━━ 
-                                                                 ┗━━                                                                  
+                                                                 ┗━━  
+</pre>
