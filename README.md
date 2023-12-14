@@ -1,6 +1,6 @@
 <pre>
 ┏━━━━━━━━━━ Welcome to my Github 👋  ━━━━━━━━━┓ 😄               
-┃ I am aresearcher at La Sapienza University with a        ┃ ┣━━ 🌎 Repositories                         
+┃ I am aresearcher at La Sapienza University with a        ┃ ┣━━ 💾 Repositories                         
 ┃ PhD in particle physics from Durham University. My       ┃ ┃   ┣━━ <a href=https://github.com/alexisdpc/Heston-model>Heston Model</a>
 ┃ research topics include stochastic calculus, Monte Carlo ┃ ┃   ┣━━ <a href=https://github.com/alexisdpc/Black-Scholes-and-Greeks>Black-Scholes and Greeks</a>
 ┃ simulations, deep learning and NLP.                      ┃ ┃   ┣━━ <a href=https://github.com/alexisdpc/Deep-Hedging>Deep Hedging</a>
