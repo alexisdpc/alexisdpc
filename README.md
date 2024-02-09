@@ -12,4 +12,5 @@
 </pre>
 
 ![Visits Badge](https://badges.pufler.dev/visits/alexisdpc/main)\
-![Visitor Count](https://profile-counter.glitch.me/alexisdpc/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/alexisdpc/count.svg)\
+![](https://komarev.com/ghpvc/?username=alexisdpc)
