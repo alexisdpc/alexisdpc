@@ -11,5 +11,5 @@
                                                                    ┗━━ <a href=https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.095013>Asymptotic Safety</a>
 </pre>
 
-![Visits Badge](https://badges.pufler.dev/visits/alexisdpc/alexisdpc)\
+![Visits Badge](https://badges.pufler.dev/visits/alexisdpc/main)\
 ![Visitor Count](https://profile-counter.glitch.me/alexisdpc/count.svg)
