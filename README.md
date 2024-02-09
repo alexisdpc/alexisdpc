@@ -12,4 +12,4 @@
 </pre>
 
 ![Visits Badge](https://badges.pufler.dev/visits/alexisdpc/readme.md)
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/alexisdpc/count.svg)
