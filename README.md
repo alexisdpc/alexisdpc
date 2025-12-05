@@ -2,7 +2,7 @@
 ╭────────────── Welcome to my Github 👋  ──────────────────╮😄               
 ┃ I am quant working on systematic trading, with a PhD in  ┃ ┣━━ 💾 Repositories                         
 ┃ particle physics from Durham University. My interests    ┃ ┃   ┣━━ <a href=https://github.com/alexisdpc/Heston-model>Heston Model</a>
-┃ include algorithms, Monte Carlo simulations, stochastic  ┃ ┃   ┣━━ <a href=https://github.com/alexisdpc/Black-Scholes-and-Greeks>Black-Scholes and Greeks</a>
+┃ include algorithms, Monte Carlo simulations, stochastic  ┃ ┃   ┣━━ <a href=https://github.com/alexisdpc/Options-Analytics>Options Analytics</a>
 ┃ calculus, deep learning, and reinforcement learning.     ┃ ┃   ┣━━ <a href=https://github.com/alexisdpc/Deep-Hedging>Deep Hedging</a>
 ┃                                                          ┃ ┃   ┗━━ <a href=https://github.com/alexisdpc/Sentiment-analysis-NLP-LLM>Sentiment Analysis LLM </a>
 ┃                                                          ┃ ┗━━ 📚 Particle Physics Articles       
@@ -13,6 +13,7 @@
 </pre>
 
 ![](https://komarev.com/ghpvc/?username=alexisdpc&label=Visits)
+
 
 
 
