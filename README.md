@@ -16,7 +16,7 @@
 
 ![Visits](https://komarev.com/ghpvc/?username=alexisdpc&label=Visits&style=flat&color=blue)
 
-![Visits](https://hits.sh/github.com/alexisdpc.svg?label=Visits&color=007ec6)
+![Hits](https://hits.sh/github.com/alexisdpc.svg?label=Hits&color=28a745)
 
 
 
