@@ -14,6 +14,8 @@
 
 ![](https://komarev.com/ghpvc/?username=alexisdpc&label=Visits)
 
+![Visits](https://komarev.com/ghpvc/?username=alexisdpc&label=Visits&style=flat&color=blue)
+
 
 
 
