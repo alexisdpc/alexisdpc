@@ -12,8 +12,6 @@
 ╰──────────────────────────────────────────────────────────╯
 </pre>
 
-![](https://komarev.com/ghpvc/?username=alexisdpc&label=Visits)
-
 ![Visits](https://komarev.com/ghpvc/?username=alexisdpc&label=Visits&style=flat&color=blue)
 
 ![Hits](https://hits.sh/github.com/alexisdpc.svg?label=Hits&color=28a745)
